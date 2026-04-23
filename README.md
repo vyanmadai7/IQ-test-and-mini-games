@@ -1,2 +1,4 @@
-This is not working right now I will fix this later...
-and if you like to do more in this then then you can make this more better
+🚧 Work in Progress
+
+This project isn’t fully functional yet , fixes are coming soon.
+If you’d like to contribute or improve it, feel free to jump in.
